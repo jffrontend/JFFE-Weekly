@@ -15,7 +15,7 @@
 
 ## :steam_locomotive: ​ 团队博客
 
-[九方技术前端团队-TNT](https://segmentfault.com/u/jfjsweb)
+[九方技术前端团队-JFFE](https://segmentfault.com/u/jfjsweb)
 
 <br />
 
