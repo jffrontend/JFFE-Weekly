@@ -21,7 +21,7 @@
 
 ## :cat: 团队 GitHub
 
-[TNT](https://github.com/jffrontend)
+[JFJSWeb](https://github.com/jffrontend)
 
 <br />
 
