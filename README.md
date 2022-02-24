@@ -27,6 +27,15 @@
 
 ## :books: ​Weekly：
 
+## 第二周
+
+1. [2021前端回顾](https://juejin.cn/post/7046752311900635173)
+2. [前端生成PDF，让后端刮目相看](https://segmentfault.com/a/1190000041447795)
+3. [ULID 与 UUID：用于 JavaScript 的可排序随机 ID 生成器](https://segmentfault.com/a/1190000041439197)
+4. [Pinia进阶：优雅的setup（函数式）写法+封装到你的企业项目](https://cloud.tencent.com/developer/article/1945421)
+5. [Vite + whistle：一劳永逸的开发环境代理方案](https://cloud.tencent.com/developer/article/1945422)
+
+
 ## 第一周
 
 1. [小程序开发的一些经验](https://zhuanlan.zhihu.com/p/25126957)
