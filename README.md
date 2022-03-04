@@ -29,11 +29,11 @@
 
 ## 第三周
 
-[兼容 VS Code 插件！阿里 & 蚂蚁联合开源国内⾸个强定制 IDE 研发框架 OpenSumi](https://www.infoq.cn/article/8gJqG7iWYkxLSRiuafDI)
-[深入理解JavaScript正则表达式](https://juejin.cn/post/7070408757594816542)
-[前端基础知识之 TypeScript 泛型](https://juejin.cn/post/7070392938915692552)
-[gl-matrix线性向量库、实现鼠标滚轮缩放元素、Canvas图片和拖拽](https://segmentfault.com/a/1190000041443525)
-[快速开始](https://opensumi.com/zh/docs/integrate/quick-start/web)
+1. [兼容 VS Code 插件！阿里 & 蚂蚁联合开源国内⾸个强定制 IDE 研发框架 OpenSumi](https://www.infoq.cn/article/8gJqG7iWYkxLSRiuafDI)
+2. [深入理解JavaScript正则表达式](https://juejin.cn/post/7070408757594816542)
+3. [前端基础知识之 TypeScript 泛型](https://juejin.cn/post/7070392938915692552)
+4. [gl-matrix线性向量库、实现鼠标滚轮缩放元素、Canvas图片和拖拽](https://segmentfault.com/a/1190000041443525)
+5. [快速开始](https://opensumi.com/zh/docs/integrate/quick-start/web)
 
 ## 第二周
 
