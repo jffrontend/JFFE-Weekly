@@ -27,6 +27,12 @@
 
 ## :books: ​Weekly：
 
+## 第四周
+
+1. [Flutter ChartSpace：通过跨端 Canvas 实现图表库](https://juejin.cn/post/7072987006099259423)
+2. [30 个极大提高开发效率超级实用的 VSCode 插件](https://juejin.cn/post/7072929507455270943)
+3. [前端工程化必经的一环 -- 约束前后端的接口规范](https://juejin.cn/post/7071117503841173512)
+
 ## 第三周
 
 1. [兼容 VS Code 插件！阿里 & 蚂蚁联合开源国内⾸个强定制 IDE 研发框架 OpenSumi](https://www.infoq.cn/article/8gJqG7iWYkxLSRiuafDI)
